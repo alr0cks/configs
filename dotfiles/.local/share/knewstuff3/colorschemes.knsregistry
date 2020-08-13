@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Moe Color Schemes</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1284573</homepage>
+  <licence></licence>
+  <version>1.3</version>
+  <rating>63</rating>
+  <downloads>707</downloads>
+  <installedfile>/home/alr0cks/.local/share/color-schemes//Moe.colors</installedfile>
+  <installedfile>/home/alr0cks/.local/share/color-schemes//</installedfile>
+  <id>1284573</id>
+  <releasedate>2020-07-25</releasedate>
+  <summary>Moe color-schemes for Moe Plasma Theme https://store.kde.org/p/1284575/</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/9/8/d/da7d2fbbd770a0dd27c232beb8125c70f4631849fdb391461c826539668e65e16822.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/9/8/d/da7d2fbbd770a0dd27c232beb8125c70f4631849fdb391461c826539668e65e16822.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTU2ODgyMzQiLCJvIjoiMSIsInMiOiIxOTBkZDk1NDVhODg3OGY4MWRjN2NjM2I2MDMyNDJhMzAzYzA5OWI3ZmIzNzYzMTdmNzMyZjY2ODY4NzIzZTJhNzQ3M2Y5Mzg5MTMyZDFhYTZjMjhiMzQ0MmMxZGY4YWIxODU1ODc2ZjZiMmQxZGQ2YzZhNmVlMzBmOTM2ZjM3NSIsInQiOjE1OTY4MTA2MzUsInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.KXi4qcscEkI3XQGGGztBO5EOwcdKpOjAWEhN3LNhSwY/Moe.colors.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma,colorscheme,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

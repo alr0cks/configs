@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Sweet Mars KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1393497</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>33664</downloads>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//Sweet-Mars-transparent/*</installedfile>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//Sweet-Mars/*</installedfile>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//</installedfile>
+  <id>1393497</id>
+  <releasedate>2020-06-13</releasedate>
+  <summary>Aurorae theme to fit my Sweet theme for &lt;a href="https://www.pling.com/p/1393498/" target="_blank" rel="nofollow">plasma&lt;/a> and &lt;a href="https://www.pling.com/p/1253385/" target="_blank" rel="nofollow">gnome&lt;/a>&lt;br />
+&lt;br />
+Settings in screenshot: &lt;br />
+&lt;br />
+&lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/c/8/7/64308f5f8222946f0cc9d786c63d987cf281.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/c/8/7/64308f5f8222946f0cc9d786c63d987cf281.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTIwODEyNjciLCJvIjoiMSIsInMiOiIyMTVlZTA0OWQxZjE4OGI4ODBiNjI1MDQwZGE1ZTEwOGY4NGI2YmQ0ZDI3NGU5NDAwYzNiNGU5ZDAxNDM0YTI4MzlhODY5MmE4YjVmZGQxODc3NjVlMzBkODQwZWI5ODJlOWY0YjY1YmQxOGI2ZDNkZmJjNWFjZDM0MGYyZTYzNiIsInQiOjE1OTY4MjM5NjEsInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.45nn6-enr8CaSYdagM_hMKmcFup9B5n2s1w19ikr3Zs/Sweet-Mars.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Sweet KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1297008</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>75</rating>
+  <downloads>50406</downloads>
+  <installedfile>/home/alr0cks/.local/share/konsole//Sweet.colorscheme</installedfile>
+  <installedfile>/home/alr0cks/.local/share/konsole//Sweet-Mars.colorscheme</installedfile>
+  <installedfile>/home/alr0cks/.local/share/konsole//</installedfile>
+  <id>1297008</id>
+  <releasedate>2019-08-17</releasedate>
+  <summary>Color scheme to fit my &lt;a href="https://www.opendesktop.org/p/1294174/" target="_blank" rel="nofollow">Sweet KDE&lt;/a> plasma theme</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/f/8/6/28fbd1b2f2a53d9e950a4d853e01e2dade4d.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/f/8/6/28fbd1b2f2a53d9e950a4d853e01e2dade4d.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjYwNzE5MjgiLCJvIjoiMSIsInMiOiJmODFhZjkyYzNlZmU0MzJlMzc5ODViZDc5NjI3N2YzYTY2NGUxMmE3M2M0YjBhNDY2OTE1ZmRkMWMxMDE4ZDdiYzliNjdiMDAwOWM2OTJhYmI3ZDY1MDViMGFhMTk0OTNiOTFhZWViNDZjMWYyNzU4ZmMwNzIyOGRlOTc1ZmMyYSIsInQiOjE1OTY4MjU1MTIsInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.yolfqeInwNTYCHKNtyX2siH3Rob2O8hJAKoxkgk_YXs/Sweet.tar.xz</payload>
+  <tags>gplv3,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Darcula Color Scheme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>cetver</author>
+  <homepage>https://store.kde.org/p/1356129</homepage>
+  <licence></licence>
+  <version>2.0</version>
+  <rating>50</rating>
+  <downloads>1296</downloads>
+  <installedfile>/home/alr0cks/.local/share/konsole//Darkula.colorscheme</installedfile>
+  <id>1356129</id>
+  <releasedate>2020-03-24</releasedate>
+  <summary>Konsole color scheme based on intellij darcula&lt;br />
+&lt;br />
+Install&lt;br />
+&lt;br />
+&lt;br />
+chmod +x install&lt;br />
+./install&lt;br />
+&lt;br />
+or&lt;br />
+&lt;br />
+Copy Darkula.colorscheme to $HOME/.local/share/konsole/Darkula.colorscheme&lt;br />
+&lt;br />
+&lt;br />
+Restart the Konsole&lt;br />
+&lt;br />
+Select theme:...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/8/1/8/58801d3be6914c289d0cdef8e8bb3ce865aa.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/8/1/8/58801d3be6914c289d0cdef8e8bb3ce865aa.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODUwNjY4MTMiLCJvIjoiMSIsInMiOiI1ODQ0MTJkM2VkZWY5NjNlZGVkNmI3ZWM2MzM0YzQ2NWQ1NjdmMDc5NTdiMDAwMjhlMjQ5ZmZlNTRmZDFmOTlhMzBhNTU0Nzk0NDQ0ODY5N2Q2ZjJiYTI1ZTg2MDg1NzIwNWEwZjcxMzE3ZDIxOWIwMjBhMjAwYWM4Y2Q3MjM0YSIsInQiOjE1OTY4Mzc2NzIsInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.Bbvpyh3cuSwUFl10wBdgrSUqbqAaW4MLszJgs6r8pRM/Darkula.colorscheme</payload>
+  <tags>original-product,konsole,darcula,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="210">
+  <name>Force Blur</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>esjeon</author>
+  <homepage>https://store.kde.org/p/1294604</homepage>
+  <licence></licence>
+  <version>0.5</version>
+  <rating>89</rating>
+  <downloads>25863</downloads>
+  <installedfile>/tmp/forceblur-0.5.kwinscript</installedfile>
+  <id>1294604</id>
+  <releasedate>2020-05-14</releasedate>
+  <summary>Force-enable blur effect for user-specified windows</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/f/b/2/25d2a853b8055b383e5ede66db535b5c9a68.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/f/b/2/25d2a853b8055b383e5ede66db535b5c9a68.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODk1MTA5NTMiLCJvIjoiMSIsInMiOiIyOTZjYjAwMjc1NzZjNDA4MWFiN2I4OGRiYmU0MGIyNjhkYTliNTQzZTZlOTUwZDEwMTBmNzQyOWJjYTE5ZTM0MGYwNzFhZGE4YWIxM2I0NzBjNTk5YTE1MWU4MWI5NmI3NzlkMGRkNWU4M2Q2OTk5NDM4ZTZhYjQzOTUyNTQ4NiIsInQiOjE1OTY4MDg1NDAsInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.cfCkplA4rSfhj9ix3nWJJYxrJ76lslYqGA1o36J3Zm4/forceblur-0.5.kwinscript</payload>
+  <tags>linux,unix,mit-license,original-product,kwin,blur</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Materia KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1229137</homepage>
+  <licence></licence>
+  <version>20200713</version>
+  <rating>69</rating>
+  <downloads>2459</downloads>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//Materia-Light/*</installedfile>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//Materia-Dark/*</installedfile>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//Materia/*</installedfile>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//</installedfile>
+  <id>1229137</id>
+  <releasedate>2020-07-12</releasedate>
+  <summary>Materia KDE - it's port Materia GTK Theme for Plasma 5 desktop.&lt;br />
+&lt;br />
+Available 3 Aurorae themes:&lt;br />
+- Materia&lt;br />
+- Materia Light&lt;br />
+- Materia Dark</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/0/d/1/55db14d868a81f04fc880a6603f76e59014f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/0/d/1/55db14d868a81f04fc880a6603f76e59014f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQ2MDk3ODgiLCJvIjoiMSIsInMiOiI3MTYwMTY0MGQ4M2FkNjQ5MDY0Y2FhNTYzMjIzZjE5Nzk4Y2UxZTAzMTRlYjA3MTYzNmQxMmRiNmMxNWMxOWMzZjg0ZDE1NTQ3NGEwYThlMWVmOTE4MmJkMmI4NTRhNmQ0ZjFmMTA3N2ZjYzhmODM2MDk3NDVmODUyZGZkN2ZjZCIsInQiOjE1OTY4MjM2MzcsInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.Hl51uHJtq77Q2WrgKcuVez_mESastKMqtkDnVol3KQU/aurorae-themes.tar.gz</payload>
+  <tags>aurorae,materia,material,linux,unix,theme,kde,plasma,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Sweet Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1286856</homepage>
+  <licence></licence>
+  <version>1.1.0</version>
+  <rating>80</rating>
+  <downloads>24657</downloads>
+  <installedfile>/home/alr0cks/.themes//Sweet-Dark/*</installedfile>
+  <installedfile>/home/alr0cks/.themes//Sweet-Dark-transparent/*</installedfile>
+  <installedfile>/home/alr0cks/.themes//</installedfile>
+  <id>1286856</id>
+  <releasedate>2020-07-01</releasedate>
+  <summary>Aurorae theme to fit my Sweet theme for &lt;a href="https://www.pling.com/p/1294174/" target="_blank" rel="nofollow">plasma&lt;/a> and &lt;a href="https://www.pling.com/p/1253385/" target="_blank" rel="nofollow">gnome&lt;/a>&lt;br />
+&lt;br />
+Settings in screenshot: &lt;br />
+&lt;br />
+&lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/6/0/0/cac8754ceb156dbfaafd564be3fbd2c90b9b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/6/0/0/cac8754ceb156dbfaafd564be3fbd2c90b9b.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTM2MzMyMjAiLCJvIjoiMSIsInMiOiIwMjBmNjBhZTg3NjBiOTNlZGMzMTQ0OTU2ZDc5YWY4NjZkMWNkNjlmNTI2ZWZlZjFiZWRjMzQ0Mjk3NWY1MTMxNDFlZGI2NzJlN2M0MzUyYWQ1ZDdkZTRiODJiODY0OTJkZDlmYzMzNTQ4MWQ3YzRkZmJlOTM1N2M1ZmUyNzcxNyIsInQiOjE1OTY4MjQwMTgsInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.rgJA3Md7oNENvX-7e0wD4JNmIVPHAvPSLPaclYxYFxc/Sweet.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Mkos-BigSur-AuroraNight</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1409704</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>156</downloads>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//Mkos-BigSur-Night/*</installedfile>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//</installedfile>
+  <id>1409704</id>
+  <releasedate>2020-08-05</releasedate>
+  <summary>Skin Aurorae style macos BigSur black</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/5/7/f/722549afc544e3d25ec64e5e5ba919b6a5f8e09dabd6ae8b7631baab5f4ab628799e.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/5/7/f/722549afc544e3d25ec64e5e5ba919b6a5f8e09dabd6ae8b7631baab5f4ab628799e.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTY2NjQxMDkiLCJvIjoiMSIsInMiOiJlYjkxNTQ3NjIxZmEzNzVlNjE3YWUwODIyYjFlMzZhZDQ5MGE1ZDUyNThhNDk3Zjk2OWNlY2Y3YzIxYzQxOTJmMTI3YTY4N2ExY2E5MTAwNDAyZGYwMGY3YTVjNDVkYzkyYjIzZDY1M2U5ZmE2YjdiYzdhMDBkMDc0Mjk5ZTI0YSIsInQiOjE1OTY4MjM2OTcsInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.n53lVXD4KkkFS3IPveAFyq3wH7dJwwiBqoUO58ehwUs/Mkos-BigSur-Night.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma,original-product,agplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Materia Manjaro Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>freefreeno</author>
+  <homepage>https://store.kde.org/p/1309265</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>71</rating>
+  <downloads>16847</downloads>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//Materia-Manjaro-Gradient-Dark/*</installedfile>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//Materia-Manjaro-Dark/*</installedfile>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//Materia-Manjaro-Dark-Solid/*</installedfile>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//</installedfile>
+  <id>1309265</id>
+  <releasedate>2020-05-20</releasedate>
+  <summary>&lt;span style="color: #00c599;">Aurorae themes to match the Materia Manjaro Dark Plasma theme and color scheme.&lt;/span>&lt;br />
+&lt;br />
+Click and enlarge the screenshots so the blurriness will go away.&lt;br />
+Flip thru the screenshots to see most of the stuff but it is not all because I did not have...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/4/3/9/4b832707f1323f6015b7a4ffc90636abc3e3.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/4/3/9/4b832707f1323f6015b7a4ffc90636abc3e3.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTAwMDcxOTQiLCJvIjoiMSIsInMiOiJjYzgzNmU0NDA1MmI4NDUxYjcwNDMzY2ViNjNmYjc4MzE2NTFhNDIyZDAyYTA4YzgwN2VjZjkxMWExZDU1Mzk4NjhkNWEyOTQ5MDFhYWIzN2YxNTQ0MTk1NzEyNTE0N2ViN2ZiYzk0ZDk4ZjIyYTY4YzI2ODRlOTNhOTZkMWIxZSIsInQiOjE1OTY4MjM2NDEsInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.srw8nStNFYTn9bJuUz2gRGuA0GOIMxfLjagEGg2jv_8/themes.tar.gz</payload>
+  <tags>gplv3,modification-product,kde,plasma,plasma5,kdeplasma,materia,linux,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Moe-Dark konsole</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1378415</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>5568</downloads>
+  <installedfile>/home/alr0cks/.local/share/konsole//MoeDark.colorscheme</installedfile>
+  <id>1378415</id>
+  <releasedate>2020-04-25</releasedate>
+  <summary>Moe Dark version Konsole theme for Moe Dark Plasma theme https://store.kde.org/p/1284575/</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/a/2/a/9c1b7f49e534b051e0fd91d2016d3668dc88.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/a/2/a/9c1b7f49e534b051e0fd91d2016d3668dc88.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODc4MjY3NDAiLCJvIjoiMSIsInMiOiJjMTZhNjg2NjMxMTM0ZDE2ODc5ZjFkOTYwNzZiZGEyYTY2MzJjOTJiNzNkMGQzODBmZjE3NGVhNWExYjBmZTVlMGE0MTMxNTFlNWFkNTk0N2Y2MzllMmRlMThkNDE0MDA2YzU1NDQ5MjEyODMyMGRhZTg3NDJlMzk3NzFlNDI0YyIsInQiOjE1OTY4MTExOTksInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.gHWBcZ_7hK18b5zJIdKpkjo1IpI3jV6sgmk97oPIr1w/MoeDark.colorscheme</payload>
+  <tags>lgplv3,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Red-Black</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1308402</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>70</rating>
+  <downloads>11498</downloads>
+  <installedfile>/home/alr0cks/.local/share/konsole//Red-Black.colorscheme</installedfile>
+  <id>1308402</id>
+  <releasedate>2019-06-04</releasedate>
+  <summary>Konsole Color Scheme, adapted for Plasma Theme "Red-Black", which you can download: &lt;a href="https://www.pling.com/p/1308401/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+Link to Wallpaper " KDE Plasma Abstract 322 HD And 4K": &lt;a href="https://store.kde.org/p/1308121/"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/2/8/2/29c5bbb9633ac9e655cd36e36faacee664bd.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/2/8/2/29c5bbb9633ac9e655cd36e36faacee664bd.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTk2NzU1ODIiLCJvIjoiMSIsInMiOiJmYThlYmJiYzc2OGExODgyYmQ5ODcyYWNhODMyOWYyYTRkYjc1NDM1NTA2Y2U1NmRjMTczZmVlYzNjNTI5MjhkYWJmN2UyMTliNWE1MWFiZWUzMGVlZTdhNjBiZDViZDE3MGZiODNhMTRmNGYzZDU3ZGI0NjU5YjEwOGM3NGVmNyIsInQiOjE1OTY4MjU1MjIsInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.RKgSuYnrS3fnxvkkrDAq-lsY1GmHZNtZc1l6YHUgnhI/Red-Black.colorscheme</payload>
+  <tags>addon,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>PlasmaSur-dark Aurorae Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1406026</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>261</downloads>
+  <installedfile>/home/alr0cks/.local/share/icons//PlasmaSur-dark/*</installedfile>
+  <installedfile>/home/alr0cks/.local/share/icons//</installedfile>
+  <id>1406026</id>
+  <releasedate>2020-08-05</releasedate>
+  <summary>PlasmaSur-dark kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/3/7/a/96ab9f85949818bca3c64b2016a0df0e33372b6dbe804abe32c592aeb18acc056904.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/3/7/a/96ab9f85949818bca3c64b2016a0df0e33372b6dbe804abe32c592aeb18acc056904.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTY2NDI0MTQiLCJvIjoiMSIsInMiOiJkZjViOGZiM2I0MjExYTk2MmQ4YjYyYzNhM2U5MTU1YjNjNTZjZTIwOWI5YmY1YjE3ZDY0YjkyZTJlYTJlYTYyZDQyMmVkYzU1MWY5NDRmNjNiMDA4ODhhYTIwOTVkZTM4N2YwNTVmMzk0M2QyN2Q4ODRhMDAxYWU4ZWY3NWFmNiIsInQiOjE1OTY4MjM4NjAsInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.LDd3eSudHXHRnDhfTxeEqlAbhTAndfBTFyatMl6qudQ/PlasmaSur-dark.zip</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Mkos-BigSur-Transparent</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1409208</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>83</downloads>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//Mkos-BigSur-Transparent/*</installedfile>
+  <installedfile>/home/alr0cks/.local/share/aurorae/themes//</installedfile>
+  <id>1409208</id>
+  <releasedate>2020-08-03</releasedate>
+  <summary>&lt;strong>Icon theme&lt;/strong>&lt;br />
+&lt;a href="https://www.pling.com/p/1400021/" target="_blank" rel="nofollow">https://www.pling.com/p/1400021/&lt;/a>&lt;br />
+******************&lt;br />
+&lt;br />
+kvantum theme&lt;br />
+&lt;a href="https://www.pling.com/p/1409205/" target="_blank"...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/5/7/f/722549afc544e3d25ec64e5e5ba919b6a5f8e24d72f6ad11d80be826912cb2677a67.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/5/7/f/722549afc544e3d25ec64e5e5ba919b6a5f8e24d72f6ad11d80be826912cb2677a67.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTY1MTMwMDEiLCJvIjoiMSIsInMiOiJhYWU1ZTc5YjAzMTQyM2VjN2ZlOGFlMGU5MWFhODk1NmRhZTc0NGI3NTUyZDExZWY2Yzk0OGI5ODlmYzA2MjRhMGY1ZmU5NGQ1Nzk2ODdjNTBlN2E4NjA0Nzc5OTgwNDNkZmEzMzk0MTYxMDEwYTU3ZGU4YzZmZTRmZDJiNTczZiIsInQiOjE1OTY4MjM2OTcsInN0ZnAiOm51bGwsInN0aXAiOiI0OS4zNS4xMjUuMTEzIn0.7Tsg3LeYWpey_Q8oD2TPh8b8Qm8NVR-5EOGwVrzS--Y/Mkos-BigSur-Transparent.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

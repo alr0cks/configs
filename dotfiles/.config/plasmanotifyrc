@@ -1,0 +1,13 @@
+[Applications][firefox]
+Seen=true
+
+[Applications][google-chrome]
+Seen=true
+
+[Applications][telegramdesktop]
+ShowInHistory=false
+
+[Notifications]
+CriticalAlwaysOnTop=false
+PopupPosition=BottomRight
+PopupTimeout=2000
